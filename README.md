@@ -23,6 +23,9 @@ weatherdash/
 ├── app.js       # Config, state, API service, DOM, events
 └── server.js    # Optional local dev server
 ```
+## Project screenshot 
+<img width="677" height="847" alt="browser-screenshot-84e3171c-96e8-4d9d-b9d4-462323e" src="https://github.com/user-attachments/assets/ff7c57bc-850d-45cc-9e87-5493f5945a35" />
+
 
 ## Quick start
 
